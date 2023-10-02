@@ -8,7 +8,7 @@
 -->
 
 # Hello GitHub Actions
-
+smile:_smile:_smile:_smile:_smile:_
 _Create a GitHub Action and use it in a workflow._
 
 </header>
